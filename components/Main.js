@@ -25,7 +25,7 @@ export default function Main() {
         <img
           class="object-cover object-center w-full mb-10 border-gray-200 dark:border-gray-900 g327 border rounded-lg shadow-md"
           alt="hero"
-          src="https://png.pngtree.com/background/20240116/original/pngtree-3d-rendering-of-a-conceptual-coding-and-programming-image-picture-image_7305608.jpg"
+          src="./images/placeholder.png"
         ></img>
       </div>
       <section class="text-gray-600 body-font">
@@ -76,7 +76,7 @@ export default function Main() {
             <img
               alt="feature"
               class="object-cover object-center h-full w-full"
-              src="https://png.pngtree.com/background/20240114/original/pngtree-3d-rendering-image-of-the-concept-of-coding-and-programming-picture-image_7276044.jpg"
+              src="./images/placeholder.png"
             ></img>
           </div>
           <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
